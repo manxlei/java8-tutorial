@@ -3,7 +3,7 @@
 *.iml
 .project
 .classpath
-.setting
+.settings
 out
 /bin/
 /target/
