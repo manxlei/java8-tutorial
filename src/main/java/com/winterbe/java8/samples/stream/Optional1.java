@@ -15,6 +15,7 @@ public class Optional1 {
         optional.orElse("fallback");    // "bam"
 
         optional.ifPresent((s) -> System.out.println(s.charAt(0)));     // "b"
+        
     }
 
 }

@@ -1,5 +1,9 @@
 .DS_Store
 .idea
 *.iml
+.project
+.classpath
+.setting
 out
 /bin/
+/target/
